@@ -1394,13 +1394,13 @@
     margin-left: 40px
 }
 
-.ridek-features li {
+.ColorTaxi-features li {
     display: flex;
     align-items: center;
     gap: 20px
 }
 
-.ridek-features li:not(:last-of-type) {
+.ColorTaxi-features li:not(:last-of-type) {
     margin-bottom: 30px
 }
 
