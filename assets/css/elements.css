@@ -869,9 +869,9 @@ button {
     width: 45px;
     height: 45px;
     position: fixed;
-    bottom: 30px;
+    bottom: 90px;
     right: 30px;
-    overflow: hidden;
+    overflow: hidden ;
     z-index: 999
 }
 
